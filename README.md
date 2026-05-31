@@ -48,4 +48,4 @@ Once running, you can access the following menu options:
 5.  **Check Central Inbox:** Pull recent inbox logs and read emails with formatted clean styling and OTP highlights.
 
 ---
-*Branded & Engineered by Xez.*
+*-Xez*
