@@ -48,4 +48,4 @@ Saat aplikasi berjalan, Anda dapat memilih beberapa opsi menu berikut:
 5.  **Check Central Inbox:** Mengecek kotak masuk dan membaca email masuk dengan layout terminal terformat rapi dan highlight OTP.
 
 ---
-*Branded & Engineered by Xez.*
+*-Xez*
