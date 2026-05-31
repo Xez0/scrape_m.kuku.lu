@@ -1,0 +1,17 @@
+{
+  "name": "mkukulu-email-manager",
+  "version": "1.0.0",
+  "description": "Terminal-based email manager for m.kuku.lu",
+  "main": "email.js",
+  "scripts": {
+    "start": "node email.js"
+  },
+  "keywords": [],
+  "author": "Xez",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.7.0"
+  }
+}
